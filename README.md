@@ -82,8 +82,7 @@ This application is configured for deployment on Streamlit Community Cloud with 
 3. Make your changes
 4. Submit a pull request
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Acknowledgments
 - Our World in Data for providing comprehensive COVID-19 datasets
